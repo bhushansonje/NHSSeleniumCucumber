@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="68.858">
+    <testcase classname="NHS Job Search Functionality" name="Job Search using Search Link (Go to search) on NHS Jobs Website" time="68.216">
+        <system-out><![CDATA[Given I am on the NHS Jobs website homepage.................................passed
+When I verify the title of the homepage.....................................passed
+When I click on the Go to search link.......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="NHS Job Search Functionality" name="Sort NHS Job Search Results by newest Date Posted" time="0.002">
+        <failure message="The scenario has no steps" type="java.lang.Exception"/>
+    </testcase>
+</testsuite>
